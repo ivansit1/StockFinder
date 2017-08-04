@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 package stock.finder;
-//testing
+//testingxyz
 import java.awt.Image;
 import java.awt.event.ItemEvent;
 import java.net.*;
