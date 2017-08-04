@@ -263,11 +263,13 @@
                         <DimensionLayout dim="1">
                           <Group type="103" groupAlignment="0" attributes="0">
                               <Group type="102" alignment="0" attributes="0">
-                                  <Group type="103" groupAlignment="3" attributes="0">
-                                      <Component id="searchItemBox" alignment="3" max="32767" attributes="0"/>
-                                      <Component id="searchbtn" alignment="3" max="32767" attributes="0"/>
-                                      <Component id="filterBtn" alignment="3" max="32767" attributes="0"/>
+                                  <Group type="103" groupAlignment="0" attributes="0">
                                       <Component id="showFilterPanelBtn" alignment="0" min="-2" pref="23" max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="3" attributes="0">
+                                          <Component id="searchItemBox" alignment="3" max="32767" attributes="0"/>
+                                          <Component id="searchbtn" alignment="3" max="32767" attributes="0"/>
+                                          <Component id="filterBtn" alignment="3" max="32767" attributes="0"/>
+                                      </Group>
                                   </Group>
                                   <EmptySpace max="-2" attributes="0"/>
                                   <Component id="sPanelStockDetails" pref="457" max="32767" attributes="0"/>
